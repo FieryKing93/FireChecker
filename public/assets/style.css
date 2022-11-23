@@ -1,0 +1,32 @@
+body{
+    background: #151619;
+}
+.badge-outline-info {
+    color: #3da5f4;
+    border: 1px solid #3da5f4
+}
+.badge-outline-light {
+    color: white;
+    border: 1px solid white
+}
+.badge-outline-danger {
+    color: #f1536e;
+    border: 1px solid #f1536e
+}
+
+.badge-outline-success {
+    color: #00c689;
+    border: 1px solid #00c689
+}
+
+.badge-outline-warning {
+    color: #fda006;
+    border: 1px solid #fda006
+}
+.badge-outline-primary {
+    color: #405189;
+    border: 1px solid #405189
+}
+#cvvCards, #ccnCards, #deadCards{
+    color: #fff;
+}
